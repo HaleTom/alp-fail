@@ -271,6 +271,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Tim Serong](https://ourobengr.com)
 - [Tobias Cohen](https://tobico.net)
 - [Todd Norbury](https://twitter.com/norbs/status/1071261285591875584)
+- [Tom Hale](https://github.com/HaleTom/)
 - [Tom Lynch](https://twitter.com/trmarker)
 - [Tom Newby](https://twitter.com/tomnewbyau)
 - [Tom Sullivan](https://github.com/msbit)
